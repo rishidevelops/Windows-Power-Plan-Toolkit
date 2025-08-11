@@ -29,7 +29,7 @@
 
 1️⃣ **Clone the repository:**  
 ```bash
-git clone https://github.com/YOUR-USERNAME/Windows-Power-Plan-Toolkit.git
+git clone https://github.com/rishidevelops/Windows-Power-Plan-Toolkit.git
 ```
 2️⃣ Navigate to the project directory:
 ```bash
